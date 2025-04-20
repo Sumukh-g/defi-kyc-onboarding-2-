@@ -55,6 +55,23 @@ app.post('/revoke', async (req, res) => {
   }
 });
 
+app.post('/getDID', async (req, res) => {
+  const { userAddress } = req.body;
+
+  if (!userAddress) {
+    return res.status(400).json({ error: 'Missing userAddress' });
+  }
+
+  try {
+    const did = await contract.getDID(userAddress);
+    res.json({ success: true, userAddress, did });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: 'Failed to fetch DID', details: err.message });
+  }
+});
+
+
 const PORT = process.env.PORT || 4000;
 app.listen(PORT, () => {
   console.log(`🚀 Server listening on port ${PORT}`);
