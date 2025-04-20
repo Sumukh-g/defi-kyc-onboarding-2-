@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\cenas\\Downloads\\defi-kyc-onboarding (2)\\blockchain\\contracts\\KYCVerifier.sol": {
+      "lastModificationDate": 1745102943332,
+      "contentHash": "66216ec24673e8aae3b643a9722b3518",
+      "sourceName": "contracts/KYCVerifier.sol",
+      "solcConfig": {
+        "version": "0.8.23",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "KYCVerifier"
+      ]
+    }
+  }
+}
