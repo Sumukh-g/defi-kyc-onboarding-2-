@@ -23,7 +23,8 @@ By enabling verifiable identity on-chain, Infine unlocks access to aid distribut
 
 🔗 On-chain, tamper-proof verification that scales to millions
 
-
+Demo of the application
+can
 
 Images of the Website
 
