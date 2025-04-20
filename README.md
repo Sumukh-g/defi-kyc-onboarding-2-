@@ -25,3 +25,12 @@ By enabling verifiable identity on-chain, Infine unlocks access to aid distribut
 
 
 
+Images of the Website
+
+![image](https://github.com/user-attachments/assets/b3de0722-81ba-44c0-b865-4defaadc12c7)
+
+![image](https://github.com/user-attachments/assets/5bfb0d10-9724-4bb4-bb79-447b263e4552)
+
+![image](https://github.com/user-attachments/assets/cda1b861-b421-49f4-b7ef-04506eabdbf7)
+
+
