@@ -7,6 +7,8 @@ Infine is a decentralized onboarding platform built to empower unbanked communit
 By enabling verifiable identity on-chain, Infine unlocks access to aid distribution, digital payments, and identity-based services for over 1.4 billion unbanked individuals worldwide. Designed for use in rural kiosks, NGO hubs, and refugee camps, the system ensures inclusivity through a simple, admin-led registration process. Infine bridges the gap between Web2 government identities and Web3 decentralized finance — making financial sovereignty accessible to all, regardless of education, location, or infrastructure.
 
 
+![the steps to do - visual selection (3)](https://github.com/user-attachments/assets/738636e2-76da-4f02-bed6-b63c5907ed07)
+
 
 
 🛠️ Technical Features
@@ -20,5 +22,6 @@ By enabling verifiable identity on-chain, Infine unlocks access to aid distribut
 💬 Fully tested using Postman and ready for frontend integration
 
 🔗 On-chain, tamper-proof verification that scales to millions
+
 
 
